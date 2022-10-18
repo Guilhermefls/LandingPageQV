@@ -2,8 +2,12 @@
     color: white;
 }
 .pricesB{
-    min-height: 450px;
+    height: 450px;
 }
 .alignINF{
-    vertical-align: sub;
+    margin-top: 85%;
+}
+.pricesB ul{
+    position: absolute;
+    width: 100%;
 }
